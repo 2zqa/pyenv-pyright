@@ -13,6 +13,11 @@ So with this plugin you can do this with only one command:
 pyenv pyright
 ```
 
+## Requirements
+
+* pyenv
+* jq (available in all major distro repositories like Ubuntu, Fedora and Arch Linux)
+
 ## Installation
 
 This will install the latest development version of `pyenv-pyright` into the `$(pyenv root)/plugins/pyenv-pyright` directory.
